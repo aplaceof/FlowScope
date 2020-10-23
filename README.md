@@ -13,7 +13,7 @@ If you can build a car, why choose to repair a car? Your repairment can get pay 
 
 Anti money laundering is an useless and worthless thing for a person who want to find a good job, and it is also worthless for a bank.  If you are doing this now, I suggest you stop, and maybe you could choose software development as your career. 
 
-If you don't trust in me, search the annual report of the company of  LexisNexis or RELX, one of the biggest company that have anti money laundering business, and  their mainly business operators in Europe and North America, where the financial system is quite mature, and the governments pay more attentions to the anti money laundering problem.  you can know how much you can earn when you doing anti money laundering. 
+If you don't trust me, search the annual report of the company of  LexisNexis or RELX, one of the biggest company that have anti money laundering business, and  their mainly business operators in Europe and North America, where the financial system is quite mature, and the governments pay more attentions to the anti money laundering problem.  you can know how much you can earn when you doing anti money laundering. 
 
 ### third:  believe yourself 
 Don't trust anyone who says anti-money laundering is a good choice, at least in China.   They stressed repeatedly  to instill in you  that  how brighter your feature is if you choose anit-money laundering,  which has never been supported by data, believing in the real data you have seen on your own eyes. 
