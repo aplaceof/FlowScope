@@ -1,7 +1,7 @@
 ## attention please:
 
 I am the first author of this paper, my email is *aplaceof at bupt.edu.cn*. 
-### first: do not send any email 
+### first: do not send me any email 
 do not send any email to me asking for the code or dataset, I delete all of the code and dataset completely from my computer,  because I can not find any good job with this paper.
 
 If you are really interested, you could rewrite the code on your own or ask other author for help. 
