@@ -19,7 +19,7 @@ If you don't trust me, search the annual report of the company of  LexisNexis or
 Don't trust anyone who says anti-money laundering is a good choice, at least in China.   They stressed repeatedly  to instill in you  that  how brighter your feature is if you choose anit-money laundering,  which has never been supported by data, believing in the real data you have seen on your own eyes. 
 
 see this introduction  of RELX: at https://en.wikipedia.org/wiki/RELX .
-see this annual report of RELX at:
-https://www.relx.com/~/media/Files/R/RELX-Group/documents/reports/annual-reports/2019-annual-report.pdf 
-page 137,  the section of "ANALYSIS BY BUSINESS SEGMENT", and anti-money laundering only a part of revenue in "Risk & Business Analytics" segment.  
-Surely, you can also search these information on your own. 
+
+see this annual report of RELX at: https://www.relx.com/~/media/Files/R/RELX-Group/documents/reports/annual-reports/2019-annual-report.pdf. 
+On page 137,  the section of "ANALYSIS BY BUSINESS SEGMENT", you can see that the revenue of  "Risk & Business Analytics" segment is only 2,316 £m in 2019, and anti-money laundering only a part of it.  
+Surely, you can also search these informations on  your own. 
