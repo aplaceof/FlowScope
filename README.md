@@ -16,7 +16,7 @@ Anti-money laundering is an useless and worthless thing for a person who want to
 If you don't trust me, search the annual report of the company of  LexisNexis or RELX, one of the biggest company that have anti-money laundering business, and  their mainly business operators in Europe and North America, where the financial system is quite mature, and the governments pay more attentions to the anti-money laundering problem.  you can know how much you can earn when you doing anti-money laundering. 
 
 ### third:  believe the truth   
-Don't trust anyone who says anti-money laundering is a good choice, at least in China.   They stressed repeatedly to instill in you  that  how brighter your feature is if you choose anit-money laundering,  which has never been supported by data, believing the real data you have seen on your own eyes. 
+Don't trust anyone who says anti-money laundering is a good choice, at least in China.   They stressed repeatedly to instill in you that how brighter your feature is if you choose anit-money laundering,  which has never been supported by data and never will, believing the real data you have seen on your own eyes. 
 
 see this introduction  of RELX: at https://en.wikipedia.org/wiki/RELX .
 
