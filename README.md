@@ -24,7 +24,7 @@ see this annual report of RELX at: https://www.relx.com/~/media/Files/R/RELX-Gro
 On page 137,  the section of "ANALYSIS BY BUSINESS SEGMENT", you can see that the revenue of  "Risk & Business Analytics" segment is only 2,316 £m in 2019, and anti-money laundering only a part of it. See the detail at: https://www.relx.com/our-business/market-segments/risk-and-business-analytics.
 
 
-If you are a Chinese: you can see the flowing website which is more relevant:
+If you are a Chinese, you could browse the flowing websites, which are more relevant:
 
 anti-money laundering report in 2017: https://cj.sina.com.cn/articles/view/6359922816/17b14b880019005tfl
 
