@@ -2,7 +2,7 @@
 
 I am the first author of this paper, my email is *aplaceof at bupt.edu.cn*. 
 ### first: do not send me any email 
-do not send any email to me asking for the code or dataset, I delete all of the code and dataset completely from my computer,  because I can not find any good job with this paper. Maybe, you can connect to shenghua liu, the second author of this paper for help, his email is  liushenghua at  ict.ac.cn.
+do not send any email to me asking for the code or dataset, I delete all of the code and dataset completely from my computer,  because I can not find any good job with this paper. Maybe, you can connect to shenghua liu, the second author of this paper for help, his email is  liushenghua at ict.ac.cn, just replace at with @.
 
 If you are really interested, you could rewrite the code on your own or ask other author for help. 
 ### second： anti-money laundering is not a good choice 
@@ -16,7 +16,7 @@ Anti-money laundering is an useless and worthless thing for a person who want to
 If you don't trust me, search the annual report of the company of  LexisNexis or RELX, one of the biggest company that have anti-money laundering business, and  their mainly business operators in Europe and North America, where the financial system is quite mature, and the governments pay more attentions to the anti-money laundering problem.  you can know how much you can earn when you doing anti-money laundering. 
 
 ### third:  believe the truth   
-Don't trust anyone who says anti-money laundering is a good choice, at least in China.   They stressed repeatedly to instill in you that how brighter your feature is if you choose anit-money laundering,  which has never been supported by data and never will, believing the real data you have seen on your own eyes. 
+Don't trust anyone who says anti-money laundering is a good choice, at least in China. They stressed repeatedly to instill in you that how brighter your feature is if you choose anit-money laundering,  which has never been supported by data and never will, believing the real data you have seen on your own eyes. 
 
 see this introduction  of RELX: at https://en.wikipedia.org/wiki/RELX .
 
@@ -32,5 +32,5 @@ anti-money laundering report in 2019: http://m.sinotf.com/News/index/id/340666
 
 anti-money laundering report in 2020, first season :https://www.sohu.com/a/389620462_120052127
 
-See the tiny amount of fine, you can know, what does anti-money laundering  mean to a Chinese bank. The fine of anti-money laundering in a whole year for all of banks in China may even not exceed the turnover of Apple,MicroSoft in a single day.
+See the tiny amount of fine, you can know, what does anti-money laundering  mean to a Chinese bank. The fine of anti-money laundering in a whole year for all of banks in China may even not exceed the turnover of Apple,MicroSoft in a single day,do you believe that, all of banks, a whole year. If you are a student in China, I strongly suggest you stop doing anti-money laundering, when you are about graduate from school, you will how hard it would be for you to find a job, and it will be the same situation in many other countries.
 Surely, you can also search these informations on  your own. 
