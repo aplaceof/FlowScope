@@ -2,7 +2,7 @@
 
 I am the first author of this paper, my email is *aplaceof at bupt.edu.cn*. 
 ### first: do not send me any email 
-do not send any email to me asking for the code or dataset, I delete all of the code and dataset completely from my computer,  because I can not find any good job with this paper.
+do not send any email to me asking for the code or dataset, I delete all of the code and dataset completely from my computer,  because I can not find any good job with this paper. Maybe, you can connect to shenghua liu, the second author of this paper for help, his email is  liushenghua at  ict.ac.cn.
 
 If you are really interested, you could rewrite the code on your own or ask other author for help. 
 ### second： anti-money laundering is not a good choice 
@@ -21,5 +21,11 @@ Don't trust anyone who says anti-money laundering is a good choice, at least in 
 see this introduction  of RELX: at https://en.wikipedia.org/wiki/RELX .
 
 see this annual report of RELX at: https://www.relx.com/~/media/Files/R/RELX-Group/documents/reports/annual-reports/2019-annual-report.pdf. 
-On page 137,  the section of "ANALYSIS BY BUSINESS SEGMENT", you can see that the revenue of  "Risk & Business Analytics" segment is only 2,316 £m in 2019, and anti-money laundering only a part of it.  
+On page 137,  the section of "ANALYSIS BY BUSINESS SEGMENT", you can see that the revenue of  "Risk & Business Analytics" segment is only 2,316 £m in 2019, and anti-money laundering only a part of it. See the detail at: https://www.relx.com/our-business/market-segments/risk-and-business-analytics.
+If you are a Chinese: you can see the flowing website which is more relevant:
+anti-money laundering report in 2017: https://cj.sina.com.cn/articles/view/6359922816/17b14b880019005tfl
+anti-money laundering report in 2019: http://m.sinotf.com/News/index/id/340666
+anti-money laundering report in 2019, first season :https://www.sohu.com/a/389620462_120052127
+
+See the tiny amount of fine, you can know, what does anti-money laundering  mean to a Chinese bank. The fine of anti-money laundering in a whole year for all of banks in China may even not exceed the turnover of Apple,MicroSoft in a single day.
 Surely, you can also search these informations on  your own. 
