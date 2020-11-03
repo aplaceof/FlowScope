@@ -25,9 +25,9 @@ On page 137,  the section of "ANALYSIS BY BUSINESS SEGMENT", you can see that th
 
 
 <br>If you are a Chinese: you can see the flowing website which is more relevant:</br>
-<br>anti-money laundering report in 2017: https://cj.sina.com.cn/articles/view/6359922816/17b14b880019005tfl</br>
-<br>anti-money laundering report in 2019: http://m.sinotf.com/News/index/id/340666</br>
-<br>anti-money laundering report in 2019, first season :https://www.sohu.com/a/389620462_120052127</br>
+anti-money laundering report in 2017: https://cj.sina.com.cn/articles/view/6359922816/17b14b880019005tfl
+anti-money laundering report in 2019: http://m.sinotf.com/News/index/id/340666
+anti-money laundering report in 2019, first season :https://www.sohu.com/a/389620462_120052127
 
 See the tiny amount of fine, you can know, what does anti-money laundering  mean to a Chinese bank. The fine of anti-money laundering in a whole year for all of banks in China may even not exceed the turnover of Apple,MicroSoft in a single day.
 Surely, you can also search these informations on  your own. 
