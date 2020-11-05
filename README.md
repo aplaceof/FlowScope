@@ -35,4 +35,4 @@ anti-money laundering report in 2020, first season :https://www.sohu.com/a/38962
 
 See the tiny amount of fine, you can know, what does anti-money laundering  mean to a Chinese bank. The fine of anti-money laundering in a whole year for all of banks in China may even not exceed the turnover of Apple, MicroSoft in a single day, do you believe that, all of banks, a whole year.  If you are a student in China,  I strongly suggest you stop doing anti-money laundering, you will know how hard it would be for you to find a job when you are about graduate from school, but it was too late. In China, I have never heard of any listed company  whose primary business is anti-money laundering. And it will be similar, both the fine of anti-money laundering and the difficulty for you to find a job in many other countries.  
 
-Surely, you can also search these informations on  your own. 
+Surely, you can also search these informations on  your own.  If you are forced to do anti-money laundering, good luck.
