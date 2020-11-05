@@ -2,9 +2,10 @@
 
 I am the first author of this paper, my email is *aplaceof at bupt.edu.cn*. 
 ### first: do not send me any email 
-do not send any email to me asking for the code or dataset, I delete all of the code and dataset completely from my computer,  because I can not find any good job with this paper. Maybe, you can connect to shenghua liu, the second author of this paper for help, his email is  liushenghua at ict.ac.cn, just replace at with @.
+do not send any email to me asking for the code or dataset, I delete all of the code and dataset completely from my computer,  because I can not find any good job with this paper. If you are really interested, you could rewrite the code on your own or ask other author for help. Maybe, you can connect to shenghua liu, the second author of this paper for help, his email is  liushenghua at ict.ac.cn, just replace at with @.
 
-If you are really interested, you could rewrite the code on your own or ask other author for help. 
+But before you connect other authors, I strongly suggest you read the following passages.
+
 ### second： anti-money laundering is not a good choice 
 
 Anti-money laundering is not fundmental, or prerequisite to any other business. What all company want is money, is porfit, but anti-money laundering does not create any value directly. 
