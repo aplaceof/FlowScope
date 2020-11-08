@@ -58,6 +58,9 @@ Quoting a Chinese poem：
 English version:
 
 <center>Pages full of fantastic talk</center>
+
 <center>Penned with bitter tears;</center>
+
 <center>All men call the author mad,</center>
+
 <center>None his message hears.</center>
