@@ -51,7 +51,7 @@ Surely, you can also search these informations on  your own.  If you are forced 
 
 Quoting a Chinese poem：
 
-<center>满纸荒唐言，一把辛酸泪。
+<center>满纸荒唐言，一把辛酸泪。</center>
 
 <center>都云作者痴，谁解其中味。</center>
 
