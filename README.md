@@ -57,7 +57,7 @@ Quoting a Chinese poem：
 
 English version:
 
-                                                    Pages full of fantastic talk
+                                                    Pages full of fantastic talk,
 
                                                     Penned with bitter tears;
 
