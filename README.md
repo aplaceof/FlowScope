@@ -51,19 +51,17 @@ Surely, you can also search these informations on  your own.  If you are forced 
 
 Quoting a Chinese poem：
 
-<center>居中</cenetr>
+                                                      满纸荒唐言，一把辛酸泪。 
 
-<center>满纸荒唐言，一把辛酸泪。</center>
-
-<center>都云作者痴，谁解其中味。</center>
+                                                      都云作者痴，谁解其中味。 
 
 English version:
 
-<center>Pages full of fantastic talk</center>
+                                                    Pages full of fantastic talk
 
-<center>Penned with bitter tears;</center>
+                                                    Penned with bitter tears;
 
-<center>All men call the author mad,</center>
+                                                    All men call the author mad,
 
-<center>None his message hears.</center>
+                                                    None his message hears.
 
