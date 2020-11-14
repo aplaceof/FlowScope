@@ -6,7 +6,7 @@ Since I was graduated, please contact other authors for questions. Maybe, you ca
 
 But before you proceed  to do anti-money laundeiring, I strongly suggest you read the following passages.
 
-### second：feasibility and necessity
+### second：feasibility and necessity of anti-money laundering
 
 Anti-money laundering is not fundmental, or prerequisite to any other business. What all company want is money, is porfit, but anti-money laundering does not create any value directly. 
 
@@ -44,3 +44,4 @@ anti-money laundering report in 2019: http://m.sinotf.com/News/index/id/340666
 anti-money laundering report in 2020, first season :https://www.sohu.com/a/389620462_120052127
 
 According to the  information in the  website  above, the fine of anti-money laundering in a whole year for all of banks in China may even not exceed the turnover of Apple, MicroSoft in a single day, do you believe that, all of banks, a whole year.  There are thousands of financial company in china, which means the average fine of anti-money laundering for each inancial company  is incrediable low, even not  enough to hire people to do that.   If you are a student in China,  I strongly suggest you stop doing anti-money laundering, you will know how hard it would be  to find a job when you are about graduate from school, but it was too late.  And it will be similar, both the fine of anti-money laundering and the difficulty for you to find a job in many other countries. In Europe and North America, the situation may be better， because  the financial system is quite mature there, and the governments pay more attentions to the anti-money laundering problem.    In China, I have never heard of any listed company  whose primary business is anti-money laundering, and I have never heard bankruptcy beacause of anti-money laundering problem   around the world.   
+
