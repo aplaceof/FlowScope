@@ -4,7 +4,7 @@
 
 &nbsp;&nbsp; Since I was graduated, please contact other authors for questions. Maybe, you can connect to shenghua liu, the second author of this paper for help, his email is  liushenghua at ict.ac.cn, just replace at with @.
 
-&nbsp;&nbsp; But before you proceed  to do anti-money laundeiring, I strongly suggest you read the following passages.
+&nbsp;&nbsp; But before you proceed doing anti-money laundeiring, I strongly suggest you read the following passages.
 
 ### second：feasibility and necessity of anti-money laundering
 
