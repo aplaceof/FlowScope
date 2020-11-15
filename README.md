@@ -24,7 +24,7 @@
 
 &nbsp;&nbsp; Anti-money laundering is a  not good choice, at least in China,  see the  analysis of anti-money laundering below.
 
-####  business analysis of anti-money laundering in Europe and North America
+####  business analysis of anti-money laundering in Europe and North America and China 
 
 &nbsp;&nbsp; you can search the annual report of RELX,  one of the biggest company that have anti-money laundering business, and  their mainly business operators in Europe and North America, where the financial system is quite mature, and the governments pay more attentions to the anti-money laundering problem.  
 
@@ -44,3 +44,4 @@ On page 137,  the section of "ANALYSIS BY BUSINESS SEGMENT", you can see that th
 
 &nbsp;&nbsp; According to the  information in the  website  above, the fine of anti-money laundering in a whole year for all of banks in China may even not exceed the turnover of Apple, MicroSoft in a single day, do you believe that, all of banks, a whole year.  There are thousands of financial company in china, which means the average fine of anti-money laundering for each inancial company  is incrediable low, even not  enough to hire people to do that.   If you are a student in China,  I strongly suggest you stop doing anti-money laundering, you will know how hard it would be  to find a job when you are about graduate from school, but it was too late.  And it will be similar, both the fine of anti-money laundering and the difficulty for you to find a job in many other countries. In Europe and North America, the situation may be better， because  the financial system is quite mature there, and the governments pay more attentions to the anti-money laundering problem.    In China, I have never heard of any listed company  whose primary business is anti-money laundering, and I have never heard bankruptcy beacause of anti-money laundering problem   around the world.   
 
+I hope you can find a good job.  
