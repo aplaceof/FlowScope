@@ -47,3 +47,17 @@ On page 137,  the section of "ANALYSIS BY BUSINESS SEGMENT", you can see that th
 I hope you can find a good job, stop doing anti-money laundering, especially you or your family are poor. Anti-money laundering can not bring you anything, except for the suffering when you want to find a job. 
 
 
+Quoting a Chinese poem：
+
+                                                  满纸荒唐言，一把辛酸泪。 
+
+                                                  都云作者痴，谁解其中味。 
+English version:
+
+                                                Pages full of fantastic talk,
+
+                                                Penned with bitter tears;
+
+                                                All men call the author mad,
+
+                                                None his message hears.
