@@ -4,7 +4,7 @@
 
 &nbsp;&nbsp; Since I was graduated, please contact other authors for questions. Maybe, you can connect to shenghua liu, the second author of this paper for help, his email is  liushenghua at ict.ac.cn, just replace at with @.
 
-&nbsp;&nbsp; But before you proceed doing anti-money laundeiring, I strongly suggest you read the following passages.
+&nbsp;&nbsp; I delete all of the code and dataset bacause I can not find any good job with this paper, I do not want to it any more. The paper is really time  consuming, very hard to derive some  theoretical boundary, but what I got was extremly low. When I was about graduate, I can not find any good job, My classmates who  research or do neural networks or software development find the job  with salary even 2 times than me, even they play more games, even they work several hours less than me every day, even I know more about computer system relatively. I spent 1.5 year on this time consuming work, too much time, no other time to learn other thinghs. So before you proceed doing anti-money laundeiring, I strongly suggest you read the following passages. I do not want see you follow my step, and get desperate when you can not find any job.  
 
 ### second：feasibility and necessity of anti-money laundering
 
