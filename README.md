@@ -1,4 +1,4 @@
-### first: please contact other authors, read the paragraph below  
+### first: read the paragraph below, please contact other authors 
 
 &nbsp;&nbsp; The source code of FlowScope is migrated into spartan2 (<https://github.com/BGT-M>) with easy-to-follow tutorials by authors (<https://github.com/BGT-M/spartan2-tutorials/blob/master/FlowScope.ipynb>). 
 
