@@ -1,8 +1,8 @@
-### first: please contact other authors 
+### first: please contact other authors, read the paragraph below  
 
 &nbsp;&nbsp; The source code of FlowScope is migrated into spartan2 (<https://github.com/BGT-M>) with easy-to-follow tutorials by authors (<https://github.com/BGT-M/spartan2-tutorials/blob/master/FlowScope.ipynb>). 
 
-&nbsp;&nbsp; Please contact other authors for questions. Maybe, you can connect to shenghua liu, the second author of this paper for help, his email is  liushenghua at ict.ac.cn, just replace at with @. But before you connect to other authors, I  strongly suggest you read the following passage, and decide to going on anti-money laundering or not. Anti-money laundering is useless in most of countries, where you can not find any good job，but only get suffers during job interview. If you do not know what to do, software development is a good choice, if you really do not know what to do, sleeping in bed is a much better choice, at least you do nothing and get nothing. The man who says anti-money laundering  is good and  wants  you do it will never care about your feature.
+&nbsp;&nbsp; Please contact other authors for questions. Maybe, you can connect to shenghua liu, the second author of this paper for help, his email is  liushenghua at ict.ac.cn, just replace at with @. But before you connect to other authors, I strongly suggest you read the following passage, and decide to going on anti-money laundering or not. Anti-money laundering is useless in most of countries, where you can not find any good job，but only get suffers during job interview. And, normly, add some rule in the bank system is good enough to do anti-money laundering,  there is seldom need for artificial intelligence and algorithm to do it. If you do not know what to do, software development is a good choice, if you really do not know what to do, sleeping in bed is a much better choice, at least you do nothing and get nothing. The man who says anti-money laundering  is good and  wants  you do it will never care about your feature.
 
 &nbsp;&nbsp; I delete all of the code and dataset bacause I can not find any good job with this paper, I do not want to see it any more. The paper is really time  consuming, very hard to derive some  theoretical boundary, but what I got was extremly low. When I was about graduate, I can not find any good job, My classmates who  research neural networks or do  software development find the job  with salary even 2、3 times than me, even they play more games, even they work several hours less than me every day, even I know more about computer system relatively. I spent 1.5 year on this time consuming work, too much time, no other time to learn other thinghs. So before you proceed doing anti-money laundeiring, I strongly suggest you read the following passages. I do not want see you follow my step, and get desperate when you can not find any job. Direction is more important than hard work.  If you have similar experience, please give me a star, let other people know that I am telling the truth.
 
@@ -29,7 +29,7 @@
 
 &nbsp;&nbsp; Anti-money laundering is a  not good choice, at least in China,  see the  analysis of anti-money laundering below.
 
-####  business analysis of anti-money laundering in Europe and North America and China 
+####  business analysis of anti-money laundering in Europe and North America
 
 &nbsp;&nbsp; you can search the annual report of RELX,  one of the biggest company that have anti-money laundering business, and  their mainly business operators in Europe and North America, where the financial system is quite mature, and the governments pay more attentions to the anti-money laundering problem.  
 
@@ -39,7 +39,7 @@
 On page 137,  the section of "ANALYSIS BY BUSINESS SEGMENT", you can see that the revenue of  "Risk & Business Analytics" segment is only 2,316 £m in 2019, and anti-money laundering only a part of it. See the detail at: https://www.relx.com/our-business/market-segments/risk-and-business-analytics.
 
 ####  business analysis of anti-money laundering in  China
-&nbsp;&nbsp; If you are a Chinese, you could browse the flowing websites, which are more relevant:
+&nbsp;&nbsp; If you are a Chinese people, you could browse the flowing websites, which are more relevant:
 
 &nbsp;&nbsp; anti-money laundering report in 2017: https://cj.sina.com.cn/articles/view/6359922816/17b14b880019005tfl
 
