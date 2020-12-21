@@ -69,3 +69,4 @@ English version:
                                                 All men call the author mad,
 
                                                 None his message hears.
+If you have any questions, you can post your question in the issue section. 
