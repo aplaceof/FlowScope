@@ -1,6 +1,6 @@
-### first:  business analysis of anti-money laundering
+### first:  business analysis of the fucking anti-money laundering
 
-&nbsp;&nbsp;  I give the new link of code source at the bottom , but before you proceed, I strongly suggest you read the following passage, and decide to going on anti-money laundering or not. Anti-money laundering is useless in most of countries, where you can not find any good job，but only get suffers during job interview. And, normly, add some rule in the bank system is good enough to do anti-money laundering,  there is seldom need for artificial intelligence and algorithm to do it.  
+&nbsp;&nbsp;  I will give the new link of code source at the bottom , but before you proceed, I strongly suggest you read the following passage, and decide to going on anti-money laundering or not. Anti-money laundering is useless in most of countries, where you can not find any good job，but only get suffers during job interview. And, normly, add some rule in the bank system is good enough to do anti-money laundering,  there is seldom need for artificial intelligence and algorithm to do it.  
 &nbsp;&nbsp; Anti-money laundering is a  not good choice, at least in China,  see the  analysis of anti-money laundering below.
 
 ####  business analysis of anti-money laundering in Europe and North America
