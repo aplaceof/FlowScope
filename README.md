@@ -5,13 +5,12 @@
 
 ####  business analysis of anti-money laundering in Europe and North America
 
-&nbsp;&nbsp; you can search the annual report of RELX,  one of the biggest company that have anti-money laundering business, and  their mainly business operators in Europe and North America, where the financial system is quite mature, and the governments pay more attentions to the anti-money laundering problem.  
+&nbsp;&nbsp; you can search the annual report of RELX,  one of the biggest company that have anti-money laundering business, and  their mainly business operators in Europe and North America, where the financial system is quite mature, and the governments pay more attentions to the anti-money laundering problem. In other words, RELX earns the most of profit and represents the   ceriling   that one anti-money laundering company can reach. 
 
 &nbsp;&nbsp; see this introduction  of RELX: at https://en.wikipedia.org/wiki/RELX .
 
 &nbsp;&nbsp; see this annual report of RELX at: https://www.relx.com/~/media/Files/R/RELX-Group/documents/reports/annual-reports/2019-annual-report.pdf. 
-On page 137,  the section of "ANALYSIS BY BUSINESS SEGMENT", you can see that the revenue of  "Risk & Business Analytics" segment is only 2,316 £m in 2019, and anti-money laundering only a part of it. See the detail at: https://www.relx.com/our-business/market-segments/risk-and-business-analytics.
-
+On page 137,  the section of "ANALYSIS BY BUSINESS SEGMENT", you can see that the revenue of  "Risk & Business Analytics" segment is only 2,316 £m in 2019, and anti-money laundering only a part of it. See the detail at: https://www.relx.com/our-business/market-segments/risk-and-business-analytics. the market of the fucking  anti-money laundering  is so small that most of company with not pay it, I never heard any large company will take the fucking anti-money laundering as its main business and they never will. I have nerver heard about RELX before, I know about the company of  RELX because I  spent many time  searching on google to survey just for telling you that the status of the fucking many laundering in Europe and North America, where the financial system is quite mature, and the governments pay more attentions, but the profit is also extremly low. 
 ####  business analysis of anti-money laundering in  China
 &nbsp;&nbsp; If you are a Chinese people, you could browse the flowing websites, which are more relevant:
 
