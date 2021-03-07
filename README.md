@@ -1,6 +1,6 @@
 ### first:  business analysis of the fucking anti-money laundering
 
-&nbsp;&nbsp;  I will give the new link of code source at the bottom , but before you proceed, I strongly suggest you read the following passage, and decide to going on anti-money laundering or not. Anti-money laundering is useless in most of countries, where you can not find any good job，but only get suffers during job interview. And, normly, add some rule in the bank system is good enough to do anti-money laundering,  there is seldom need for artificial intelligence and algorithm to do it.  If you think this paragraph somehow makes sense, please give me a star. The teacher or the man who fucking says anti-money laundering is a good  choice and fucking wants or force you do it will never fucking care about your feature, fuck, fuck, fuck.
+&nbsp;&nbsp;  I will give the new link of code source at the bottom , but before you proceed, I strongly suggest you read the following passage, and decide to going on anti-money laundering or not. Anti-money laundering is useless in most of countries, where you can not find any good job，but only get suffers during job interview. And, normly, add some rule in the bank system is good enough to do anti-money laundering,  there is seldom need for artificial intelligence and algorithm to do it.  If you think this paragraph somehow makes sense, please give me a star. The teacher or the man who fucking says anti-money laundering is a good  choice and fucking wants or force you do it will never fucking care about your feature, fuck, fuck, fuck. They could not earn much from anti-money laundering, and you lost your feature, fuck, I really do not understand why there are some people doing this fucking bording, unimprotant thing, resulting bad influence both for you and themselves.
 
 &nbsp;&nbsp; Anti-money laundering is a  not good choice, at least in China,  see the  analysis of anti-money laundering below.
 
@@ -75,5 +75,5 @@ If you have any questions, you can post your question in the issue section.
 
 
 
-&nbsp;&nbsp; The source code of FlowScope is migrated into spartan2 (<https://github.com/BGT-M/spartan2-tutorials/blob/master/FlowScope.ipynb>). 
+&nbsp;&nbsp; The source code of FlowScope is migrated into spartan2 (<https://github.com/BGT-M/spartan2-tutorials/blob/master/FlowScope.ipynb>).  I hope you never open this linking, and keep away from the fucking anti-money laundering or anomly detection, which only got suffers from these kind of fucking work. 
 
