@@ -1,4 +1,4 @@
-** I don not want  you follow my step and see tee suffers I've experienced happeded on you, so stop doing it.  I you think this paragraph some how make sense, please give a star.**
+**I don not want  you follow my step and see tee suffers I've experienced happeded on you, so stop doing it.  I you think this paragraph some how make sense, please give a star.**
  
 ###  business analysis of the fucking anti-money laundering
 
