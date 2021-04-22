@@ -1,3 +1,5 @@
+ I don not want  you follow my step and see tee suffers I've experienced happeded on you, so stop doing it.  I you think this paragraph some how make sense, please give a star.
+ 
 ###  business analysis of the fucking anti-money laundering
 
 &nbsp;&nbsp; Anti-money laundering is a  not good choice, at least in China,  see the  analysis of anti-money laundering below.
@@ -36,7 +38,7 @@ I can not say too much here.
 &nbsp;&nbsp; I hate it, not only because it is too difficult and very time-consuming, but also because it is useless and there are few needs about it in the society, and I could predict that  in the foreseeable future, no one will pay attention to anti-money laundering, at least in China. Unlike the research brain-computer interface, though it is very difficult, the research process is full of ups and downs， it can significantly improve work efficiency and has broad application prospects.  It is still worthwhile  to do that, and the company of country are more willing to invest such research. Just search on the google scholar and see the number of cite, you will see the gap between them, not to mention neural network.
 
 
-&nbsp;&nbsp; The country would rather spend billions or tens of billions of dollars to fight wars than to spend a penny on anti-money laundering. War, money laundering, and illegal property are all of the dark side of mankind. I think you should know what I am meaning. If I invade a country and plunder tens of billions of dollars, this kind of behavior is very common in the history, and it often accompanies this massacre. How to define this kind of behavior? money laundering?  murder? This behavior comes from the highest level of government, who will supervise this and gives punishment ? You spend the best age of your life doing this kind of fucking work, but when you want to find a job, there is no need for such fucking work, take care. Never believe any promises  about doing anti-money laundering, they are hardly to be fulfilled. 
+&nbsp;&nbsp; The country would rather spend billions or tens of billions of dollars to fight wars than to spend a penny on anti-money laundering. War, money laundering, and illegal property are all of the dark side of mankind. I think you should know what I am meaning. If I invade a country and plunder tens of billions of dollars, this kind of behavior is very common in the history, and it often accompanies this massacre. How to define this kind of behavior? money laundering?  murder? This behavior comes from the highest level of government, who will supervise this and gives punishment ? You spend the best age of your life doing this kind of fucking work, but when you want to find a job, there is no need for such fucking work, take care. Never believe any promises and  bright feature about doing anti-money laundering, these promises are hardly to be fulfilled. 
 
 ### third：feasibility and necessity of anti-money laundering, stop doing this
 
