@@ -1,4 +1,4 @@
-**I don not want  you follow my step and see tee suffers I've experienced happeded on you, so stop doing it.  I you think this article some how make sense, please give a star. If I have been helped warm hearted, I'll never saying a word in the article **
+**I don not want  you follow my step and see tee suffers I've experienced happeded on you, so stop doing it.  I you think this article some how make sense, please give a star. If I have been helped warm hearted, I'll never saying a word in the article.**
  
 ###  business analysis of the fucking anti-money laundering
 
