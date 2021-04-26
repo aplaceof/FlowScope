@@ -5,4 +5,4 @@
 
 &nbsp;&nbsp;  Before you proceed to do anti-money laundering, I strongly suggest you investigate the commercial situation of anti-money laundering(you could read this paragraph https://github.com/aplaceof/FlowScope/blob/main/analyis.md ), and decide to go on or not, I hope you get a better feature and keep away from the  anti-money laundering. Anti-money laundering is not a good  choice,  do not do it, otherwise  you will get nothing when you want to find a job when you about graduate, but only suffers, especilly you are poor. 
 
- I you think this article some how make sense, please give me a star. 
+&nbsp;&nbsp;   The most import for a person is not how hard he work, but what he choose and is doing now. I you think this article some how make sense, please give me a star. 
