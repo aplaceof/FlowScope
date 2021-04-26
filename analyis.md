@@ -16,13 +16,13 @@ On page 137,  the section of "ANALYSIS BY BUSINESS SEGMENT", you can see that th
 ####  business analysis of anti-money laundering in  China
 &nbsp;&nbsp; If you are a Chinese people, you could browse the flowing websites, which are more relevant. If you are not familiar with Chinese, then I will tell you the relevant statistics directly. The total amount of fines for  anti-money laundering  received by thousands of banks and financial institutions in China is :  2017, less than  1 hundred million ¥； 2019， 1.7 hundred million ¥ ； 2020， 6.28  hundred million ¥. Although the fine grows rapidly, but it still means nothing to thounds of  banks and financial institutions in China on average.  If you you do not trust me, you can use google translate to browse this information on your own.
 
-&nbsp;&nbsp; anti-money laundering report in 2017: https://cj.sina.com.cn/articles/view/6359922816/17b14b880019005tfl
+&nbsp;&nbsp; 1. anti-money laundering report in 2017: https://cj.sina.com.cn/articles/view/6359922816/17b14b880019005tfl
 
-&nbsp;&nbsp; anti-money laundering report in 2019: http://m.sinotf.com/News/index/id/340666
+&nbsp;&nbsp; 2. anti-money laundering report in 2019: http://m.sinotf.com/News/index/id/340666
 
-&nbsp;&nbsp; anti-money laundering report in 2020, https://baijiahao.baidu.com/s?id=1688575675962389447&wfr=spider&for=pc
+&nbsp;&nbsp; 3. anti-money laundering report in 2020, https://baijiahao.baidu.com/s?id=1688575675962389447&wfr=spider&for=pc
 
-&nbsp;&nbsp; money laundering about two of Chinese biggest bank HongKong(Asia) department with its executives involved, if you are interested, search on  yourself.
+&nbsp;&nbsp; 4. money laundering about two of Chinese biggest bank HongKong(Asia) department with its executives involved, if you are interested, search on  yourself.
 I can not say too much here.
 
 &nbsp;&nbsp; According to the  information in the  website  above, the fine of anti-money laundering in a whole year for all of banks in China may even not exceed the turnover of Apple, MicroSoft in a single day, do you believe that, all of banks, a whole year.  There are thousands of financial company in china, which means the average fine of anti-money laundering for each financial company  is incrediable low, even not  enough to hire people to do that.   If you are a student in China,  I strongly suggest you stop doing anti-money laundering, you will know how hard it would be  to find a job when you are about graduate from school, but it was too late.  And it will be similar, both the fine of anti-money laundering and the difficulty for you to find a job in many other countries. In Europe and North America, the situation may be better， because  the financial system is quite mature there, and the governments pay more attentions to the anti-money laundering problem.    In China, I have never heard of any listed company  whose primary business is anti-money laundering, and I have never heard bankruptcy beacause of anti-money laundering problem around the world.   
