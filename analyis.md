@@ -1,4 +1,4 @@
-**I don not want  you follow my step and see tee suffers I've experienced happeded on you, so stop doing it. If I have been helped warm hearted, I'll never saying a word in the article. To all of things I have experienced, I only want to say fuck. Never trust the man who says anti-money laundering is good, never. I you think this article some how make sense, please give a star. **
+**I don not want  you follow my step and see tee suffers I've experienced happeded on you, so stop doing it. If I have been helped warm hearted, I'll never saying a word in the article. To all of things I have experienced, I only want to say fuck. Never trust the man who says anti-money laundering is good, never. I you think this article some how make sense, please give a star.**
  
 ###  business analysis of the fucking anti-money laundering
 
