@@ -7,4 +7,4 @@
 
 &nbsp;&nbsp;   The most import for a person is not how hard he work, but what he choose and is doing now. I you think this article some how make sense, please give me a star. 
 
-&nbsp;&nbsp;   To all of the things I've experienced, I only want say fuck.
+&nbsp;&nbsp;   To all of the things I've experienced, I only want to say fuck.
