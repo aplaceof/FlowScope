@@ -10,4 +10,4 @@
 
 &nbsp;&nbsp;   The most import for a person is not how hard he work, but what he choose and is doing now. I you think this article some how make sense, please give me a star.  I really do not understand why some people choose this direction, useless for society, useless for themselves, and useless for students. If you put the same effort on neural networks or any other things that creat value directly or related to the basic security(such as  network security, transaction system security, which  is the foundation  for all other business and can never be neglected by a company ), the pay back will be serverl times higher, both for you and your students. 
 
-&nbsp;&nbsp;   To all of the things I've experienced, I only want to say fuck.
+&nbsp;&nbsp;   To all of those things I've experienced, I have nothing to say, but  only fuck.
