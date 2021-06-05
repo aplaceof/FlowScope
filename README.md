@@ -1,7 +1,7 @@
 
 ### please  connect other authors 
 
-&nbsp;&nbsp;  I don not want to answer your question about FlowScope, please contact other authors for details, and the source code of FlowScope is migrated into spartan2 (<https://github.com/BGT-M/spartan2-tutorials/blob/master/FlowScope.ipynb>)(I hope you never open this link, stop doing anti-money laundering).  
+&nbsp;&nbsp;  I don not want to answer your questions about FlowScope, please contact other authors for details, and the source code of FlowScope is migrated into spartan2 (<https://github.com/BGT-M/spartan2-tutorials/blob/master/FlowScope.ipynb>)(I hope you never open this link, stop doing the fucking anti-money laundering).  
 
 ###  why you should stop 
 
@@ -9,7 +9,7 @@
 
 
 
-**I don not want  you follow my step and see the suffers I've experienced happeded on you, so stop doing it. If I have been helped warm hearted, I'll never saying a word in the article. To all of things I have experienced, I only want to say fuck. Never trust the man who says anti-money laundering is good, never. I you think this article some how make sense, please give a star.** Anti-money laundering does not create and profit or value directly, and money laundering is not harmful directly, the things get realy harmed is the activity that produce the dirty money, this is the origin of crime.
+**If I have been helped warm hearted, I'll never saying a word in the article. To all of things I have experienced, I only want to say fuck. Never trust the man who fucking says  anti-money laundering is good, never，they will never care about your feature. I you think this article some how make sense, please give a star.** Anti-money laundering does not create and profit or value directly, and money laundering is not harmful directly, the things get realy harmed is the activity that produce the dirty money, this is the origin of crime.
 
 &nbsp;&nbsp; Have you ever thought about it, money laundering is the last step of  illicit property  activity, legalizing illegal funds. Why  there is no one  care about it  while these illicit property is going on and  making dirty money?  Don’t tell me, it’s because no one is aware  of  that. The scale of money laundering is usually hundreds of millions，and there is no one aware of such a large economic activity, are you kidding me?  But why these people, include the goverment, don’t care about it?  They ignore the illicit activity, just wait for the last stage when the criminals doing money laundering, and let you find all these criminals and save the world? 
 
