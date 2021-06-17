@@ -6,7 +6,7 @@
 ###  why you should stop 
 
 &nbsp;&nbsp;  Before you proceed to do anti-money laundering, I strongly suggest you investigate the commercial situation of anti-money laundering(you could read this paragraph below), and decide to go on or not, I hope you get a better feature and keep away from the fucking  anti-money laundering. Anti-money laundering is not a good  choice,  do not do it, otherwise  you will get nothing when you want to find a job when you about graduate, but only suffers, especilly you are poor.  I don not want you follow my step and see the suffers I've experienced happeded on you  and get desperate when you can not find any good job. **In China, 
-the purpose of anti-money laundering cooperation between banks and other companies or schools is not really to do well in anti-money laundering, but the leaders of the banks need political achievements.**
+the purpose of anti-money laundering cooperation between banks and other companies or schools is not really to do well in anti-money laundering, but the leaders of the banks need political achievements. If you do not understand what I am saying, you do not understand the current status of anti-money laundering in China.**
 
 
 
