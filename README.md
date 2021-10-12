@@ -91,3 +91,6 @@ English version:
                                                 None his message hears.
 If you have any questions, you can post your question in the issue section. 
 
+
+Here are some  news about money laundering, pay attention to the amount, why the activity of money laundering only when the amount comes so large.
+    - https://baijiahao.baidu.com/s?id=1713377036249435134&wfr=spider&for=pc. This is an Chinese news, the amount of money luandering is 75.6 billion ￥, think about it. 
