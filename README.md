@@ -8,5 +8,5 @@
 
 # postscript
 
-There is  some  content about  business analysis about   anti-money laundering,  if you are interested, go straight. 
+There is  some  content about  business analysis  of   anti-money laundering,  if you are interested, go straight. 
 https://github.com/aplaceof/FlowScope/blob/main/business_analysis.md
