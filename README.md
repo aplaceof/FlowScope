@@ -6,9 +6,10 @@
 
 **** 
 # postscript
-  I don not want to answer your questions about FlowScope, please contact other authors for details. 
 
-### why you should stop
+There is  some  content about  business analysis about   anti-money laundering,  if you are interested, go straight. 
+ 
+### why you should stop doing anti-money laundering
 
   Before you proceed to do anti-money laundering, I strongly suggest you investigate the commercial situation of anti-money laundering(you could read this paragraph below), and decide to go on or not, I hope you get a better feature and keep away from the fucking anti-money laundering. Anti-money laundering is not a good choice, do not do it, otherwise you will get nothing when you want to find a job when you about graduate, but only suffers, especially you are poor. I don not want you follow my step and see the suffers I've experienced happened on you and get desperate when you can not find any good job. **In China, the purpose of anti-money laundering cooperation between banks and other companies or schools is not really to do well in anti-money laundering, but the leaders of the banks need political achievements. If you do not understand what I am saying, you do not understand the current status of anti-money laundering in China.**
 
@@ -18,11 +19,11 @@
 
 ​    Have you ever thought about it, money laundering is the last step of illicit property activity, legalizing illegal funds. Why there is no one care about it while these illicit activity is going on and making dirty money? Don’t tell me,           it’s because no one is aware of that. The scale of money laundering is usually hundreds of millions，and there is no one aware of such a large economic activity, are you kidding me? But why these people, include the government, don’t care about these illicit activity (not ignore totally, some illicit activities, such as something about the national security, are under strict supervising, the key is that they do not value anti-money laundering )? They ignore all these things, just wait for the last stage when the criminals doing money laundering, and let you find all these criminals and save the world?
 
-### business analysis of the fucking anti-money laundering
+### business analysis about anti-money laundering
 
   Anti-money laundering is a not good choice, at least in China, see the analysis of anti-money laundering below.
 
-#### business analysis of anti-money laundering in Europe and North America
+#### business analysis about anti-money laundering in Europe and North America
 
   you can search the annual report of RELX, one of the biggest company that have anti-money laundering business, and their mainly business operators in Europe and North America, where the financial system is quite mature, and the governments pay more attentions to the anti-money laundering problem. In other words, RELX earns the most of profit and represents the ceiling that one anti-money laundering company can reach.
 
