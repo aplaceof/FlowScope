@@ -10,3 +10,5 @@
 
 There is  some  content about  business analysis  of   anti-money laundering,  if you are interested, go straight. 
 https://github.com/aplaceof/FlowScope/blob/main/business_analysis.md
+If you think this article some how make sense,  please give me a star. 
+
