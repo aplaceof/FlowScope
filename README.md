@@ -8,7 +8,7 @@
 
 # postscript
 
-There is  some  content about  business analysis  of   anti-money laundering,  if you are interested,  think about  it carefully. 
+There is  some  content about  business analysis  of   anti-money laundering,  if you are interested,  just scroll down and think about it carefully. 
 
 
  <br />
