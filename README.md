@@ -10,7 +10,7 @@
 
 There is  some  content about  business analysis  of   anti-money laundering,  if you are interested,  just scroll down and think about it carefully. 
 
-Never trust the man who says anti-money laundering is good, never.
+Never trust the man who says anti-money laundering is good, never, like i was, got nothing in return, but could not find a job.
 
 	- Some of them will never care about your feature, they just care about their own interests.  
 	- The others are dopey about themselves and the socity, they do not know what they are doing or what the socity need, they are total unwise at this things.  They do not have a clear view about what anti-money laundering is and how the socity treat it and know nothing about the humanity.  
