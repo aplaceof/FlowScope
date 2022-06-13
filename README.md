@@ -147,5 +147,6 @@ If you have any questions, you can post your question in the issue section.
 Here are some news about money laundering, pay attention to the amount, why the activity of money laundering only when the amount comes so large.
 
 - https://baijiahao.baidu.com/s?id=1713377036249435134&wfr=spider&for=pc. This is a Chinese news, the amount of money laundering is 75.6 billion ￥, think about it.
+- https://baike.baidu.com/item/%E5%85%A8%E5%9B%BD%E6%9C%80%E5%A4%A7%E5%9C%B0%E4%B8%8B%E9%92%B1%E5%BA%84%E6%A1%88/18866491?fr=aladdin#3 . This is a Chinese news, the amount of money laundering is 400 billion ￥, think about it. 
 
 
